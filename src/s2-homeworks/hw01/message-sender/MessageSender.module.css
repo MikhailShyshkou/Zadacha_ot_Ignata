@@ -24,6 +24,8 @@ height: 40px;
 }
 
 .textarea::-webkit-input-placeholder{
+    padding-top: 10px;
+    padding-left: 30px;
     margin: 5px;
 }
 
