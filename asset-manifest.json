@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Zadacha_ot_Ignata/static/css/main.29eaa42d.css",
-    "main.js": "/Zadacha_ot_Ignata/static/js/main.1b4513f4.js",
+    "main.css": "/Zadacha_ot_Ignata/static/css/main.cb9cad20.css",
+    "main.js": "/Zadacha_ot_Ignata/static/js/main.465ef408.js",
     "static/js/787.66cb4309.chunk.js": "/Zadacha_ot_Ignata/static/js/787.66cb4309.chunk.js",
     "static/media/avatarMiha.jpg": "/Zadacha_ot_Ignata/static/media/avatarMiha.f3a113004ed5e58c2e6b.jpg",
     "static/media/avatarIgnat.jpg": "/Zadacha_ot_Ignata/static/media/avatarIgnat.36f8cb1f5343fb30e174.jpg",
+    "static/media/checked.svg": "/Zadacha_ot_Ignata/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/Zadacha_ot_Ignata/index.html",
-    "main.29eaa42d.css.map": "/Zadacha_ot_Ignata/static/css/main.29eaa42d.css.map",
-    "main.1b4513f4.js.map": "/Zadacha_ot_Ignata/static/js/main.1b4513f4.js.map",
+    "main.cb9cad20.css.map": "/Zadacha_ot_Ignata/static/css/main.cb9cad20.css.map",
+    "main.465ef408.js.map": "/Zadacha_ot_Ignata/static/js/main.465ef408.js.map",
     "787.66cb4309.chunk.js.map": "/Zadacha_ot_Ignata/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29eaa42d.css",
-    "static/js/main.1b4513f4.js"
+    "static/css/main.cb9cad20.css",
+    "static/js/main.465ef408.js"
   ]
 }
