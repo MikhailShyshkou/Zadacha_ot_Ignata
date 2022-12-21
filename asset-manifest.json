@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Zadacha_ot_Ignata/static/css/main.eb9261d7.css",
-    "main.js": "/Zadacha_ot_Ignata/static/js/main.b48a5d3e.js",
+    "main.js": "/Zadacha_ot_Ignata/static/js/main.0d13d549.js",
     "static/js/787.66cb4309.chunk.js": "/Zadacha_ot_Ignata/static/js/787.66cb4309.chunk.js",
     "static/media/avatarMiha.jpg": "/Zadacha_ot_Ignata/static/media/avatarMiha.f3a113004ed5e58c2e6b.jpg",
     "static/media/avatarIgnat.jpg": "/Zadacha_ot_Ignata/static/media/avatarIgnat.36f8cb1f5343fb30e174.jpg",
     "static/media/404.svg": "/Zadacha_ot_Ignata/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/Zadacha_ot_Ignata/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/editIcon.svg": "/Zadacha_ot_Ignata/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
     "static/media/checked.svg": "/Zadacha_ot_Ignata/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/Zadacha_ot_Ignata/index.html",
     "static/media/burger.svg": "/Zadacha_ot_Ignata/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.eb9261d7.css.map": "/Zadacha_ot_Ignata/static/css/main.eb9261d7.css.map",
-    "main.b48a5d3e.js.map": "/Zadacha_ot_Ignata/static/js/main.b48a5d3e.js.map",
+    "main.0d13d549.js.map": "/Zadacha_ot_Ignata/static/js/main.0d13d549.js.map",
     "787.66cb4309.chunk.js.map": "/Zadacha_ot_Ignata/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9261d7.css",
-    "static/js/main.b48a5d3e.js"
+    "static/js/main.0d13d549.js"
   ]
 }
